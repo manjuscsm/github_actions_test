@@ -1,0 +1,25 @@
+name: Manju
+age: 29
+address: "State: Karnataka"
+active: true
+key:
+    key: value1
+    key2: 33
+    key3:
+        key: value1
+        key2: value2
+jsonOdject: {key: value, key2: value2}
+array:
+    - item1
+    - item2
+    - { key: value}
+jsonArray: [item1, item2]
+odjectArray:
+    - key: value2
+      key2: value2
+    - key: value
+      key2: value 2
+longtext: |
+    jbelvefvbvbfrjvbfrvbrvbrjv
+    vjbfvrjkfv hlrjbvrfvrvrvrv
+    vfrbvrfvb rlvbrvb rlvrvrv
